@@ -1,0 +1,9 @@
+2024/Input/
+
+
+# dotnet stuff
+obj/
+bin/
+.idea/
+
+TestResults/
